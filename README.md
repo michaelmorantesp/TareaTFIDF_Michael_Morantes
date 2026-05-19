@@ -3,7 +3,7 @@
 Hola, este es el repositorio de mi tarea sobre **Procesamiento de Lenguaje Natural**, enfocada en entender y aplicar la técnica TF-IDF usando PySpark.
 
 ## ¿Qué hay en este repo? 
-- **`TareaTFIDF_Moran.ipynb`**: Es el notebook de Google Colab con todo el código ejecutado. Ahí también están mis respuestas y conclusiones sobre cómo funciona el algoritmo.
+- **`TareaTFIDF_Michael_Morantes.ipynb`**: Es el notebook de Google Colab con todo el código ejecutado. Ahí también están mis respuestas y conclusiones sobre cómo funciona el algoritmo.
 - **`corpus_noticias_es.csv`**: El dataset que usamos en el ejercicio. Tiene 600 noticias en español clasificadas en deportes, economía y tecnología.
 
 ## Sobre la tarea 
